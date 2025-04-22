@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @Ericmel0
 - 👀 interessado em ofertas de estágio
-- 🌱 Atualmente estudando Javascript
+- 🌱 Atualmente estudando Javascript e Java
 - 📬 www.linkedin.com/in/eric-rian
 
 <!---
